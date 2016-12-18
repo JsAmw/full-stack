@@ -17,3 +17,7 @@ function initData() {
 // init event
 function initEvent() {
 }
+
+function getContent(name) {
+	return "name:" + name;
+}
