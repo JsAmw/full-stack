@@ -9,6 +9,6 @@ $(function() {
 	initData();
 });
 
+// init data.
 function initData() {
-
 }
