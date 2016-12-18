@@ -6,3 +6,8 @@ $(function() {
 	var requestParam = jinTools.getUrlParam('name', false);
 	jinTools.log(requestParam);
 });
+
+// init event
+function initEvent() {
+
+}
