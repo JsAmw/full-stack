@@ -7,8 +7,13 @@ $(function() {
 	jinTools.log(requestParam);
 
 	initData();
+	initEvent();
 });
 
 // init data.
 function initData() {
+}
+
+// init event
+function initEvent() {
 }
