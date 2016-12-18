@@ -21,3 +21,11 @@ function initEvent() {
 function getContent(name) {
 	return "name:" + name;
 }
+
+function showBtn(show) {
+	if (show) {
+		$('#btn').show();
+	} else {
+		$('#btn').hide();
+	}
+}
